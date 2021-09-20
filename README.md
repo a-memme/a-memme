@@ -10,7 +10,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrew-memme-050805110/)
 
 <p align=”center”>
-<a href=”LinkedIn profile URL”>
+<a href=”(https://www.linkedin.com/in/andrew-memme-050805110/)”>
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
