@@ -7,9 +7,9 @@
 - 🍳  Ask me about food! I'm also a Chef, classically trained in French and Italian cuisine. 
 
 ## Connect:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/https://www.linkedin.com/in/andrew-memme-050805110/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/) LinkedIn](https://www.linkedin.com/in/andrew-memme-050805110/)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrew-memme-050805110/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
