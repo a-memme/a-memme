@@ -1,5 +1,3 @@
-### Hey there 👋, I'm Andrew
-
 ## Data Professional
 - 🌱  I’m currently continuing to develop my data science skills and explore the world of data
 - 👀  Looking to dive further into Amazon's DeepAR machine learning method and become proficient in its use of predicting time-series data.
