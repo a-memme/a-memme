@@ -1,17 +1,17 @@
 ### Hey there 👋, I'm Andrew
 
-# Data Professional
+## Data Professional
 - 🌱  I’m currently continuing to develop my data science skills and explore the world of data
 - 👀  Looking to dive further into Amazon's DeepAR machine learning method and become proficient in its use of predicting time-series data.
-- 👯  I’m working on using data methods to create a successful cryptocurrency trading bot - feel free to reach out of this is something you're interested in!
+- 👯  I’m working on using data methods to create a successful cryptocurrency trading bot - feel free to reach out if this is something you're interested in!
 - 🍳  Ask me about food! I'm also a Chef, classically trained in French and Italian cuisine. 
 
-## Connect:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)![LinkedIn](https://www.linkedin.com/in/andrew-memme-050805110/)
+### Connect:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrew-memme-050805110/)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/andrew-memme-050805110/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
 
-## Languages and Tools:
+### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
