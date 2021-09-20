@@ -9,30 +9,7 @@
 ## Connect:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/https://www.linkedin.com/in/andrew-memme-050805110/)
 
-
-<div
-  class='LI-profile-badge'
-  data-version='v1'
-  data-size='medium'
-  data-locale='en_US'
-  data-type='horizontal'
-  data-theme='dark'
-  data-vanity='manavoza7'
->
-  <a
-    class='LI-simple-link'
-    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
-  >
-    Manav Oza
-  </a>
-</div>
-
- <script
-  type='text/javascript'
-  src='https://platform.linkedin.com/badges/js/profile.js'
-  async
-  defer
-></script>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrew-memme-050805110/)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
