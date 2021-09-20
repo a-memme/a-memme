@@ -9,7 +9,7 @@
 ### Connect:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrew-memme-050805110/)
 
-![LinkedIn](https://www.linkedin.com/in/andrew-memme-050805110/)(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+![https://www.linkedin.com/in/andrew-memme-050805110/](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
