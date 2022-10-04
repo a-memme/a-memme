@@ -1,7 +1,6 @@
-## Data Professional
-- 🌱  I’m currently continuing to develop my data science skills and explore the world of data
-- 👀  Looking to dive further into Amazon's DeepAR machine learning method and become proficient in its use of predicting time-series data.
-- 👯  I’m working on using data methods to create a successful cryptocurrency trading bot - feel free to reach out if this is something you're interested in!
+## Data Analyst & Data Science Enthusiast
+- 🌱  Always exploring the world of data
+- 👀  Currently interested & involved in machine learning for content recognition and curation in online media - feel free to reach out!
 - 🍳  Ask me about food! I'm also a Chef, classically trained in French and Italian cuisine. 
 
 ### Connect:
