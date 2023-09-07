@@ -1,6 +1,6 @@
 ## Data Professional
 - 🌱  Always exploring the world of data science
-- 👀  Currently interested & working on projects around content recognition, user engagement, and predicting asset performance within the vast landscape of social media - feel free to reach out!
+- 👀  Currently working on projects around content recognition, user engagement & segmentation, and predicting asset performance within the vast landscape of social media - feel free to reach out!
 - 🍳  Ask me about food! I'm also a Chef, classically trained in French and Italian cuisine. 
 
 ### Connect:
