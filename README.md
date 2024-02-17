@@ -1,6 +1,6 @@
 ## Data Professional
 - 🌱  Always exploring the world of data science
-- 👀  Currently working on projects around content recognition, user engagement & segmentation, and predicting asset performance within the vast landscape of social media - feel free to reach out!
+- 👀  Currently working on projects involved around targeting recommendation and revenue prediction in AdTech. Generally inolved in all areas where predictive modelling and advanced analytical techniques can be applied to online media, included but not limited to content recognition, user segmentation, and predicting asset performance  - feel free to reach out!
 - 🍳  Ask me about food! I'm also a Chef, classically trained in French and Italian cuisine. 
 
 ### Connect:
