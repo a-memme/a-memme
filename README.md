@@ -1,12 +1,9 @@
 ## Data Professional
 - 🌱  Always exploring the world of data science
-- 👀  Currently working on an array of projects with relatively different focuses - some current projects involve:
+- 👀  Currently working on an array of projects with relatively different focuses - feel free to reach out if any are of interest! Some current projects involve:
     - matrix completion (including recommendation engines)
     - building, formulating and solving deterministic optimization problems
     - ltv modeling and user segmentation (online media)
-  
-  Feel free to reach out!
-  
 - 🍳  Ask me about food! I'm also a Chef, classically trained in French and Italian cuisine. 
 
 ### Connect:
