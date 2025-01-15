@@ -4,7 +4,9 @@
     - matrix completion (including recommendation engines)
     - building, formulating and solving deterministic optimization problems
     - ltv modeling and user segmentation (online media)
-    Feel free to reach out!
+  
+  Feel free to reach out!
+  
 - 🍳  Ask me about food! I'm also a Chef, classically trained in French and Italian cuisine. 
 
 ### Connect:
