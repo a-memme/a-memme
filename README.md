@@ -1,6 +1,10 @@
 ## Data Professional
 - 🌱  Always exploring the world of data science
-- 👀  Currently working on projects involved around targeting recommendation and revenue prediction in AdTech. Generally inolved in all areas where predictive modelling and advanced analytical techniques can be applied to online media, included but not limited to content recognition, user segmentation, and predicting asset performance  - feel free to reach out!
+- 👀  Currently working on an array of projects with relatively different focuses - some current projects involve:
+    - matrix completion (including recommendation engines)
+    - building, formulating and solving deterministic optimization problems
+    - ltv modeling and user segmentation (online media)
+    Feel free to reach out!
 - 🍳  Ask me about food! I'm also a Chef, classically trained in French and Italian cuisine. 
 
 ### Connect:
