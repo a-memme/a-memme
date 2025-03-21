@@ -1,4 +1,4 @@
-## Data Professional
+## Data Scientist
 - 🌱  Always exploring the world of data science
 - 👀  Currently working on an array of projects with relatively different focuses - feel free to reach out if any are of interest! Some current projects involve:
     - Matrix completion (including recommendation engines) in multiple industries (AdTech and mental health)
