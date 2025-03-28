@@ -3,7 +3,7 @@
 - 👀  Currently working on an array of projects with relatively different focuses - feel free to reach out if any are of interest! Some current projects involve:
     - Matrix completion (including recommendation engines) in multiple industries (AdTech and mental health)
     - Building, formulating and solving deterministic optimization problems
-    - Ltv modeling and user segmentation (online media)
+    - LTV modeling and user segmentation (email marketing)
 - 🍳  Ask me about food! I'm also a Chef, classically trained in French and Italian cuisine. 
 
 ### Connect:
